@@ -7,7 +7,7 @@ This repository contains Tableau visualizations for analyzing Spotify's revenue,
 The data used in this analysis was obtained from [Kaggle](https://www.kaggle.com/datasets/mauryansshivam/spotify-revenue-expenses-and-its-premium-users). It includes detailed information on Spotify's financials and user metrics. Please visit the Kaggle dataset for more information on the data source.
 
 ### Dataset
-The dataset includes data on total revenue, cost of revenue, gross profit, premium revenue, premium cost revenue, premium gross profit, ad revenue, ad cost of revenue, ad gross profit, monthly active users (MAUs), premium MAUs, ad MAUs, premium ARPU. sales and marketing Cost, research and development Cost, genreal and adminstraive Cost.
+The dataset includes data on total revenue, cost of revenue, gross profit, premium revenue, premium cost revenue, premium gross profit, ad revenue, ad cost of revenue, ad gross profit, monthly active users (MAUs), premium MAUs, ad MAUs, premium ARPU. sales and marketing Cost, research and development Cost, general and adminstraive Cost.
 
 ### Dashboard Overview
 - Key Metrics at a Glance: Get a quick overview of Spotify's performance with 4 cards showing values for gross profit, total revenue, gross profit margin, and cost efficiency ratio.
