@@ -24,7 +24,7 @@ The dataset includes data on total revenue, cost of revenue, gross profit, premi
 
 ### Getting Started
 Clone this repository to your local machine.
-Open the Tableau workbook file (spotify_analysis.twbx) using Tableau Desktop.
+Open the Tableau workbook file (revenue_user_analysis.twbx) using Tableau Desktop.
 Explore the visualizations and use filters to analyze the data.
 
 ### Thank You
