@@ -1,4 +1,4 @@
-## Spotify Revenue and User Analysis
+## Revenue and User Analysis
 
 ### About
 This repository contains Tableau visualizations for analyzing Spotify's revenue, expenses, and user metrics from 2017 to 2023.
