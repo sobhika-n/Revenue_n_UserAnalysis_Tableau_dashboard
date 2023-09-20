@@ -27,5 +27,5 @@ Clone this repository to your local machine.
 Open the Tableau workbook file (spotify_analysis.twbx) using Tableau Desktop.
 Explore the visualizations and use filters to analyze the data.
 
-### Credits
-This project is created by Sobhika N. Feel free to contact me with any questions or feedback.
+### Thank You
+Thank you for taking the time to explore this project
